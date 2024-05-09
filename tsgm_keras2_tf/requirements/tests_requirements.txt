@@ -1,0 +1,9 @@
+black
+click
+flake8
+isort
+mypy
+pytest
+pytest-cov
+pytest-random-order
+pytest-mock

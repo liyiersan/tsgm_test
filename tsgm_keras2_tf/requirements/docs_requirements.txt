@@ -1,0 +1,11 @@
+-r requirements.txt
+
+sphinx<7.0.0
+ipython
+pandoc
+nbsphinx
+jupytext
+pydata-sphinx-theme
+sphinxcontrib-bibtex
+sphinx-autoapi
+sphinx_rtd_theme
